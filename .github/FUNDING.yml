@@ -1,0 +1,3 @@
+# The default for every repository of the organisation that has no FUNDING.yml
+# of its own: one collective funds the whole project.
+open_collective: ghostlane
